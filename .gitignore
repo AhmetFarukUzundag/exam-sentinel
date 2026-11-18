@@ -1,1 +1,4 @@
 CONTEXT.md
+test.py
+*.egg-info/
+.venv
